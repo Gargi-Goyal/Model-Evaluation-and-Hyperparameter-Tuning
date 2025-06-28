@@ -10,23 +10,23 @@ Goal: Identify the best-performing model for the Iris dataset through systematic
 5) KNN (K-Nearest Neighbors)
 
  **✨ Features**
-** Model Evaluation:**
-Accuracy, Precision, Recall, F1-Score
-Classification Reports
-Confusion Matrices
+**Model Evaluation:**
+1)Accuracy, Precision, Recall, F1-Score
+2)Classification Reports
+3)Confusion Matrices
 
  **Hyperparameter Tuning:**
 Exhaustive search with GridSearchCV (Random Forest)
 Randomized search with RandomizedSearchCV (SVM)
 
-** Visualization:**
+ **Visualization:**
 Interactive plots (Matplotlib/Seaborn)
 Model performance comparison bar charts
 
-** 🛠 Technologies Used**
+**🛠 Technologies Used**
 Python 3.x
 
-** Libraries:**
+**Libraries:**
 scikit-learn (Models, Metrics, Tuning)
 pandas (Data Handling)
 numpy (Numerical Operations)
