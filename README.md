@@ -11,24 +11,24 @@ Goal: Identify the best-performing model for the Iris dataset through systematic
 
  **✨ Features**
 **Model Evaluation:**
-1)Accuracy, Precision, Recall, F1-Score
-2)Classification Reports
-3)Confusion Matrices
+1) Accuracy, Precision, Recall, F1-Score
+2) Classification Reports
+3) Confusion Matrices
 
  **Hyperparameter Tuning:**
-Exhaustive search with GridSearchCV (Random Forest)
-Randomized search with RandomizedSearchCV (SVM)
+1) Exhaustive search with GridSearchCV (Random Forest)
+2) Randomized search with RandomizedSearchCV (SVM)
 
  **Visualization:**
-Interactive plots (Matplotlib/Seaborn)
-Model performance comparison bar charts
+1)Interactive plots (Matplotlib/Seaborn)
+2) Model performance comparison bar charts
 
 **🛠 Technologies Used**
 Python 3.x
 
 **Libraries:**
-scikit-learn (Models, Metrics, Tuning)
-pandas (Data Handling)
-numpy (Numerical Operations)
+scikit-learn (Models, Metrics, Tuning),
+pandas (Data Handling),
+numpy (Numerical Operations),
 matplotlib/seaborn (Visualizations)
 
